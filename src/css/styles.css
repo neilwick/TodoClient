@@ -1,4 +1,15 @@
 body {
-    margin: 0;
+    margin: .5em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.task {
+    border: rgb(60,60,60) 4px solid;
+    margin: 4px;
+    width: 30vw;
+    padding: .5em;
+}
+
+.complete {
+    background-color: rgb(126, 126, 126);
 }
