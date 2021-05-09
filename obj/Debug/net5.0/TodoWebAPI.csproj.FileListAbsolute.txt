@@ -1,0 +1,7 @@
+D:\web3r\X22 Projects\TodoClient\obj\Debug\net5.0\TodoWebAPI.csprojAssemblyReference.cache
+D:\web3r\X22 Projects\TodoClient\obj\Debug\net5.0\TodoWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\web3r\X22 Projects\TodoClient\obj\Debug\net5.0\TodoWebAPI.AssemblyInfoInputs.cache
+D:\web3r\X22 Projects\TodoClient\obj\Debug\net5.0\TodoWebAPI.AssemblyInfo.cs
+D:\web3r\X22 Projects\TodoClient\obj\Debug\net5.0\TodoWebAPI.csproj.CoreCompileInputs.cache
+D:\web3r\X22 Projects\TodoClient\obj\Debug\net5.0\TodoWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\web3r\X22 Projects\TodoClient\obj\Debug\net5.0\TodoWebAPI.MvcApplicationPartsAssemblyInfo.cache

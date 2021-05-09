@@ -49,7 +49,7 @@ let addHandlers = function() {
 }
 
 
-document.getElementById("add").addEventListener("click", () => {
+document.getElementById("add").addEventListener("click", async () => {
 	let elName = document.getElementById("name");
 	let elDeadline = document.getElementById("deadline");
 
@@ -57,7 +57,7 @@ document.getElementById("add").addEventListener("click", () => {
 		"name": elName.value,
 		"deadline": elDeadline.value
 	}
-	todos.addTodo(data);
+	await todos.addTodo(data);
 
 	elName.value = "";
 	elDeadline.value = new Date().toISOString();
